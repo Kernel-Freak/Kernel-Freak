@@ -1,13 +1,18 @@
 ## 💫 About Me:
 👋 Hi there! I'm a MCA student at LPU Jalndhar focused on Cybersecurity, Network & System Administration, and Digital Forensics.
 
-🛠️ I work with tools like dnsrecon, Sublist3r, Subfinder, and use the ELK Stack for threat hunting and log analysis.
+🛠️ I perform both passive and active reconnaissance using tools like dnsrecon, Sublist3r, Subfinder, Amass, and theHarvester for subdomain enumeration and OSINT, alongside Nmap, Masscan, and netcat for network   scanning and enumeration.
 
-🔍 Currently building tools for social media data extraction and forensic investigations. Comfortable with Kali Linux, forensic toolkits(Autopsy, FTK imager), and evidence preservation practices.
+🔍 I utilize the ELK Stack (Elasticsearch, Logstash, Kibana) with Filebeat and Sigma rules for log analysis, threat hunting, and incident response. I also work with Suricata, Sysmon, and OSSEC to enhance detection capabilities.
 
-🌐 Skilled in configuring ACLs, VLANs, inter-VLAN routing (Cisco), managing Active Directory labs, and virtualized systems in VirtualBox.
+📡 Skilled in network packet analysis using Wireshark and tcpdump for traffic inspection, anomaly detection, and forensic investigation of network-based attacks.
 
-🚀 Always exploring ways to secure, optimize, and investigate IT environments.
+🧪 I'm working on social media data extraction, forensic analysis, and digital evidence handling using Kali Linux and tools like Autopsy, FTK Imager, and other open-source forensic suites.
+
+🌐 Experienced in configuring VLANs, ACLs, and inter-VLAN routing (Cisco), setting up Active Directory labs, and managing virtualized systems in VirtualBox.
+
+🚀 Passionate about securing, optimizing, and investigating real-world IT environments through a balance of offensive and defensive techniques.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/samrat7/)  
